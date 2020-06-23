@@ -1,3 +1,8 @@
+## Packages:
+
+1) npm install --save gatsby-transformer-sharp gatsby-plugin-sharp  =>  (for Images and ML)
+2) npm install -g gatsby-source-filesystem
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">

@@ -31,5 +31,8 @@ module.exports = {
         path: `${__dirname}/src/images`
       },
     },
+    // No Resolve Here
+    `gatsby-plugin-sharp`, 
+    `gatsby-transformer-sharp`,
   ],
 }
