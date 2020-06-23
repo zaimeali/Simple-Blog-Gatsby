@@ -1,7 +1,9 @@
 ## Packages:
 
-1) npm install --save gatsby-transformer-sharp gatsby-plugin-sharp  =>  (for Images and ML)
+1) npm install --save gatsby-transformer-sharp gatsby-plugin-sharp  =>  (for Images and ML) and (to optimize images)
 2) npm install -g gatsby-source-filesystem
+3) npm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react    => (to use sharp plugin we've to install this)
+4) npm i gatsby-remark-images
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
