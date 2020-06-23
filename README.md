@@ -7,6 +7,10 @@
 5) npm install gatsby-plugin-google-fonts --save
 6) npm install --save gatsby-plugin-styled-components styled-components babel-plugin-styled-components
 
+
+## start from this video: https://www.youtube.com/watch?v=44TRjWt47PE&list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT&index=12
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
