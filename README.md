@@ -4,6 +4,7 @@
 2) npm install -g gatsby-source-filesystem
 3) npm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react    => (to use sharp plugin we've to install this)
 4) npm i gatsby-remark-images
+5) npm install gatsby-plugin-google-fonts --save
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
