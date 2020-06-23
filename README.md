@@ -10,6 +10,8 @@
 
 ## start from this video: https://www.youtube.com/watch?v=44TRjWt47PE&list=PLW0RabRDhwwzVNhlOgQQgw6HJzXdM1MnT&index=12
 
+## npm run develop
+
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
